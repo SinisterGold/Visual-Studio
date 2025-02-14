@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rmutu\\Documents\\GitHub\\Miscellaneous Projects\\VS_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09802768-9A1D-47E4-A375-DD1730D5E287}|VS_Assignment\\VS_Assignment.csproj|c:\\users\\rmutu\\documents\\github\\miscellaneous projects\\vs_assignment\\vs_assignment\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{09802768-9A1D-47E4-A375-DD1730D5E287}|VS_Assignment\\VS_Assignment.csproj|solutionrelative:vs_assignment\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09802768-9A1D-47E4-A375-DD1730D5E287}|VS_Assignment\\VS_Assignment.csproj|c:\\users\\rmutu\\documents\\github\\miscellaneous projects\\vs_assignment\\vs_assignment\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09802768-9A1D-47E4-A375-DD1730D5E287}|VS_Assignment\\VS_Assignment.csproj|solutionrelative:vs_assignment\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09802768-9A1D-47E4-A375-DD1730D5E287}|VS_Assignment\\VS_Assignment.csproj|c:\\users\\rmutu\\documents\\github\\miscellaneous projects\\vs_assignment\\vs_assignment\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{09802768-9A1D-47E4-A375-DD1730D5E287}|VS_Assignment\\VS_Assignment.csproj|solutionrelative:vs_assignment\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\rmutu\\Documents\\GitHub\\Miscellaneous Projects\\VS_Assignment\\VS_Assignment\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "VS_Assignment\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\rmutu\\Documents\\GitHub\\Miscellaneous Projects\\VS_Assignment\\VS_Assignment\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "VS_Assignment\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-14T10:50:52.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\rmutu\\Documents\\GitHub\\Miscellaneous Projects\\VS_Assignment\\VS_Assignment\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "VS_Assignment\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\rmutu\\Documents\\GitHub\\Miscellaneous Projects\\VS_Assignment\\VS_Assignment\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "VS_Assignment\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-14T10:50:21.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rmutu\\Documents\\GitHub\\Miscellaneous Projects\\VS_Assignment\\VS_Assignment\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "VS_Assignment\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rmutu\\Documents\\GitHub\\Miscellaneous Projects\\VS_Assignment\\VS_Assignment\\Pages\\Index.cshtml",
+              "RelativeToolTip": "VS_Assignment\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T10:49:31.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
